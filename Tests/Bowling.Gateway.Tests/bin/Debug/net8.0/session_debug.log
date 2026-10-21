@@ -1,0 +1,152 @@
+[GameSession] Created: Token=emuNOL2RlxMBB5l1IznwCQleyiUf8mADBJnrDvP5HYU, CreatedAt=2026-09-10T12:29:31.8405154Z, PairingExpiresAt=2026-09-10T12:29:32.8405154Z, ActiveExpiresAt=2026-09-10T12:59:31.8405154Z
+[GameSession] Created: Token=s2JBDIZSUKztDMlrUsvF4T4rBk-_Kdl_HYn8S29aQnk, CreatedAt=2026-09-10T12:29:32.9728697Z, PairingExpiresAt=2026-09-10T12:30:32.9728697Z, ActiveExpiresAt=2026-09-10T12:59:32.9728697Z
+[TryPairSession] Called with token: s2JBDIZSUKztDMlrUsvF4T4rBk-_Kdl_HYn8S29aQnk
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 's2JBDIZSUKztDMlrUsvF4T4rBk-_Kdl_HYn8S29aQnk', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: s2JB****aQnk Device: Phone 1
+[GameSession] Created: Token=MvZix4fywPTdXV30CPkQXMrEfAu1PSKI5K-B2LCme_8, CreatedAt=2026-09-10T12:29:32.9951698Z, PairingExpiresAt=2026-09-10T12:30:32.9951698Z, ActiveExpiresAt=2026-09-10T12:59:32.9951698Z
+[GameSession] Created: Token=qHFv7YVmy9LjnpAPTJ6GB9y_rcL8ewuLfZSfJRBbqZE, CreatedAt=2026-09-10T12:29:33.0054226Z, PairingExpiresAt=2026-09-10T12:30:33.0054226Z, ActiveExpiresAt=2026-09-10T12:59:33.0054226Z
+[GameSession] Created: Token=171IsM0tCDbzGq8XoP0i4C4Xh5FRxCo8Gw3oCnKNFtc, CreatedAt=2026-09-10T12:29:33.0087802Z, PairingExpiresAt=2026-09-10T12:30:33.0087802Z, ActiveExpiresAt=2026-09-10T12:59:33.0087802Z
+[TryPairSession] Called with token: invalid-token
+[TryPairSession] Available sessions: 0
+[TryPairSession] Session not found for token: invalid-token. Available keys: 
+[GameSession] Created: Token=q6d9x7SLPnSVaEXllQILaQptMlVTzN8-ej24guX0_Qg, CreatedAt=2026-09-10T12:29:33.0171382Z, PairingExpiresAt=2026-09-10T12:30:33.0171382Z, ActiveExpiresAt=2026-09-10T12:59:33.0171382Z
+[GameSession] Created: Token=PUkLYmVfRLA_ABZ1kRrOpgw2BNeiFBQZZhBL02e0sUQ, CreatedAt=2026-09-10T12:29:33.0267466Z, PairingExpiresAt=2026-09-10T12:30:33.0267466Z, ActiveExpiresAt=2026-09-10T12:59:33.0267466Z
+[TryPairSession] Called with token: PUkLYmVfRLA_ABZ1kRrOpgw2BNeiFBQZZhBL02e0sUQ
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'PUkLYmVfRLA_ABZ1kRrOpgw2BNeiFBQZZhBL02e0sUQ', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: PUkL****0sUQ Device: Test Phone
+[GameSession] Created: Token=NE74pneqnV2N5p-qJqIlR_VWzibLqmSEkmdVIMeQzKs, CreatedAt=2026-09-10T12:29:33.0449413Z, PairingExpiresAt=2026-09-10T12:30:33.0449413Z, ActiveExpiresAt=2026-09-10T12:59:33.0449413Z
+[TryPairSession] Called with token: NE74pneqnV2N5p-qJqIlR_VWzibLqmSEkmdVIMeQzKs
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'NE74pneqnV2N5p-qJqIlR_VWzibLqmSEkmdVIMeQzKs', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: NE74****QzKs Device: Test Phone
+[TryPairSession] Called with token: NE74pneqnV2N5p-qJqIlR_VWzibLqmSEkmdVIMeQzKs
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'NE74pneqnV2N5p-qJqIlR_VWzibLqmSEkmdVIMeQzKs', PairingExpired: False, Used: True, Paired: True
+[TryPairSession] Session invalid state: PairingExpired=False, Used=True, Paired=True
+[GameSession] Created: Token=scRf3Wgle4BzyKBzXNt5FiQ8DAbcfbzzF_z_rSi6bl0, CreatedAt=2026-09-10T12:29:33.1354711Z, PairingExpiresAt=2026-09-10T12:30:33.1354711Z, ActiveExpiresAt=2026-09-10T12:59:33.1354711Z
+[TryPairSession] Called with token: scRf3Wgle4BzyKBzXNt5FiQ8DAbcfbzzF_z_rSi6bl0
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'scRf3Wgle4BzyKBzXNt5FiQ8DAbcfbzzF_z_rSi6bl0', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: scRf****6bl0 Device: Test Phone
+[GameSession] Created: Token=riVFXVKbwItduZwzppAjhJ4qKZAes0x2H7TjQ3UMKNc, CreatedAt=2026-09-10T12:29:33.1676431Z, PairingExpiresAt=2026-09-10T12:30:33.1676431Z, ActiveExpiresAt=2026-09-10T12:59:33.1676431Z
+[TryPairSession] Called with token: riVFXVKbwItduZwzppAjhJ4qKZAes0x2H7TjQ3UMKNc
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'riVFXVKbwItduZwzppAjhJ4qKZAes0x2H7TjQ3UMKNc', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: riVF****MKNc Device: Test Phone
+[GameSession] Created: Token=L3mCLCnxO-og3iOtNFeKpZz_BT71o6DH2WJMKWDMOOQ, CreatedAt=2026-09-10T12:29:33.2155758Z, PairingExpiresAt=2026-09-10T12:34:33.2155758Z, ActiveExpiresAt=2026-09-10T12:59:33.2155758Z
+[GameSession] Created: Token=MEZPe85QtzViYt63YZTQMNiR3XyNj2TKFr28GKa5XOc, CreatedAt=2026-09-10T12:43:40.4100658Z, PairingExpiresAt=2026-09-10T12:43:41.4100658Z, ActiveExpiresAt=2026-09-10T13:13:40.4100658Z
+[GameSession] Created: Token=zOImUKKIVif5bs7X4IKSSr7b-g8bzRY0uKTfXRanglY, CreatedAt=2026-09-10T12:43:41.7703033Z, PairingExpiresAt=2026-09-10T12:44:41.7703033Z, ActiveExpiresAt=2026-09-10T13:13:41.7703033Z
+[TryPairSession] Called with token: zOImUKKIVif5bs7X4IKSSr7b-g8bzRY0uKTfXRanglY
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'zOImUKKIVif5bs7X4IKSSr7b-g8bzRY0uKTfXRanglY', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: zOIm****nglY Device: Phone 1
+[GameSession] Created: Token=jU3bvPNTLphLjdbvi-5ULinHQTySRJ0gex8vDvZ_Rfw, CreatedAt=2026-09-10T12:43:42.0376938Z, PairingExpiresAt=2026-09-10T12:44:42.0376938Z, ActiveExpiresAt=2026-09-10T13:13:42.0376938Z
+[GameSession] Created: Token=KbXB7Gco_KVsyzGaS5ir8-cppwx0xwERxUrkcY3oraQ, CreatedAt=2026-09-10T12:43:42.1311220Z, PairingExpiresAt=2026-09-10T12:44:42.1311220Z, ActiveExpiresAt=2026-09-10T13:13:42.1311220Z
+[GameSession] Created: Token=U_G1BbL08l5TYddCIGLF-JNsawIusASEMP8svePv9Es, CreatedAt=2026-09-10T12:43:42.2228274Z, PairingExpiresAt=2026-09-10T12:44:42.2228274Z, ActiveExpiresAt=2026-09-10T13:13:42.2228274Z
+[TryPairSession] Called with token: invalid-token
+[TryPairSession] Available sessions: 0
+[TryPairSession] Session not found for token: invalid-token. Available keys: 
+[GameSession] Created: Token=f-PpD9eerrm9gLsFjhZjSHQj6GQI8OV_L4zgejiTexc, CreatedAt=2026-09-10T12:43:42.3905814Z, PairingExpiresAt=2026-09-10T12:44:42.3905814Z, ActiveExpiresAt=2026-09-10T13:13:42.3905814Z
+[GameSession] Created: Token=CTh09Pf0iXDZqXnputYExs_UADpKJaXAv5qrhLo48As, CreatedAt=2026-09-10T12:43:42.4214963Z, PairingExpiresAt=2026-09-10T12:44:42.4214963Z, ActiveExpiresAt=2026-09-10T13:13:42.4214963Z
+[TryPairSession] Called with token: CTh09Pf0iXDZqXnputYExs_UADpKJaXAv5qrhLo48As
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'CTh09Pf0iXDZqXnputYExs_UADpKJaXAv5qrhLo48As', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: CTh0****48As Device: Test Phone
+[GameSession] Created: Token=krMwSyFSXDBbmL6r4gFUOXOEfCnZsjM6el9FWzsJK_w, CreatedAt=2026-09-10T12:43:42.7603351Z, PairingExpiresAt=2026-09-10T12:44:42.7603351Z, ActiveExpiresAt=2026-09-10T13:13:42.7603351Z
+[TryPairSession] Called with token: krMwSyFSXDBbmL6r4gFUOXOEfCnZsjM6el9FWzsJK_w
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'krMwSyFSXDBbmL6r4gFUOXOEfCnZsjM6el9FWzsJK_w', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: krMw****JK_w Device: Test Phone
+[TryPairSession] Called with token: krMwSyFSXDBbmL6r4gFUOXOEfCnZsjM6el9FWzsJK_w
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'krMwSyFSXDBbmL6r4gFUOXOEfCnZsjM6el9FWzsJK_w', PairingExpired: False, Used: True, Paired: True
+[TryPairSession] Session invalid state: PairingExpired=False, Used=True, Paired=True
+[GameSession] Created: Token=T7hEt8GqO1OnlO0FBm7PWG-Jyj-8_EiUFyg_63MRRCk, CreatedAt=2026-09-10T12:43:43.2362571Z, PairingExpiresAt=2026-09-10T12:44:43.2362571Z, ActiveExpiresAt=2026-09-10T13:13:43.2362571Z
+[TryPairSession] Called with token: T7hEt8GqO1OnlO0FBm7PWG-Jyj-8_EiUFyg_63MRRCk
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'T7hEt8GqO1OnlO0FBm7PWG-Jyj-8_EiUFyg_63MRRCk', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: T7hE****RRCk Device: Test Phone
+[GameSession] Created: Token=mb0hRQ1vlCh1JU4wk5ol_Vdo_G5ZmaO_sbcclxMHnQQ, CreatedAt=2026-09-10T12:43:43.2407469Z, PairingExpiresAt=2026-09-10T12:44:43.2407469Z, ActiveExpiresAt=2026-09-10T13:13:43.2407469Z
+[TryPairSession] Called with token: mb0hRQ1vlCh1JU4wk5ol_Vdo_G5ZmaO_sbcclxMHnQQ
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'mb0hRQ1vlCh1JU4wk5ol_Vdo_G5ZmaO_sbcclxMHnQQ', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: mb0h****HnQQ Device: Test Phone
+[GameSession] Created: Token=6Pf1BYNnkm3EAjND9aCp6bsykI5mGJ6rcv1i33On4VY, CreatedAt=2026-09-10T12:43:43.2501580Z, PairingExpiresAt=2026-09-10T12:48:43.2501580Z, ActiveExpiresAt=2026-09-10T13:13:43.2501580Z
+[GameSession] Created: Token=UWBDsvG0X5igaejEaXMAucrGs0i02s6tv5xPPJfHz-A, CreatedAt=2026-09-10T12:50:14.1651480Z, PairingExpiresAt=2026-09-10T12:55:14.1651480Z, ActiveExpiresAt=2026-09-10T13:20:14.1651480Z
+[GameSession] Created: Token=oscFPr7rJvERpXp35uX2U22Szzhm7g97NF-fX7ABK34, CreatedAt=2026-09-10T12:50:15.1441393Z, PairingExpiresAt=2026-09-10T12:50:16.1441393Z, ActiveExpiresAt=2026-09-10T13:20:15.1441393Z
+[GameSession] Created: Token=gelezw5mVIbUZYeSK-egGjcII3kaXwTVbyqFcrr3QW8, CreatedAt=2026-09-10T12:50:16.4306752Z, PairingExpiresAt=2026-09-10T12:51:16.4306752Z, ActiveExpiresAt=2026-09-10T13:20:16.4306752Z
+[TryPairSession] Called with token: gelezw5mVIbUZYeSK-egGjcII3kaXwTVbyqFcrr3QW8
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'gelezw5mVIbUZYeSK-egGjcII3kaXwTVbyqFcrr3QW8', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: gele****3QW8 Device: Phone 1
+[GameSession] Created: Token=GLFmmZuA73AFfa2F6acOedWYivrZrGochv818Y67iD8, CreatedAt=2026-09-10T12:50:16.6046091Z, PairingExpiresAt=2026-09-10T12:51:16.6046091Z, ActiveExpiresAt=2026-09-10T13:20:16.6046091Z
+[GameSession] Created: Token=noU-kNFrqHFESUTL3TxPghhDQdK_02EvIj0qJfsFX7A, CreatedAt=2026-09-10T12:50:16.6296597Z, PairingExpiresAt=2026-09-10T12:51:16.6296597Z, ActiveExpiresAt=2026-09-10T13:20:16.6296597Z
+[GameSession] Created: Token=iOyklGOo7mbVPLUv59BGf9qfEHakE1i_6RxxMhd7LtE, CreatedAt=2026-09-10T12:50:16.6787585Z, PairingExpiresAt=2026-09-10T12:51:16.6787585Z, ActiveExpiresAt=2026-09-10T13:20:16.6787585Z
+[TryPairSession] Called with token: invalid-token
+[TryPairSession] Available sessions: 0
+[TryPairSession] Session not found for token: invalid-token. Available keys: 
+[GameSession] Created: Token=WbN6gaj8oRkwYlzT9kOFxiCvIqW_p8MsEmvVXvHVzS0, CreatedAt=2026-09-10T12:50:16.7135605Z, PairingExpiresAt=2026-09-10T12:51:16.7135605Z, ActiveExpiresAt=2026-09-10T13:20:16.7135605Z
+[GameSession] Created: Token=MKNJS-gIgV8wolZcszLgYIGjojwfSkMnMKQOX-eP2DA, CreatedAt=2026-09-10T12:50:16.7148732Z, PairingExpiresAt=2026-09-10T12:51:16.7148732Z, ActiveExpiresAt=2026-09-10T13:20:16.7148732Z
+[TryPairSession] Called with token: MKNJS-gIgV8wolZcszLgYIGjojwfSkMnMKQOX-eP2DA
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'MKNJS-gIgV8wolZcszLgYIGjojwfSkMnMKQOX-eP2DA', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: MKNJ****P2DA Device: Test Phone
+[GameSession] Created: Token=vFdXXOE-qG85pT3IE-McOBUDCVY4iItDIHBWBVkAGiU, CreatedAt=2026-09-10T12:50:16.7831579Z, PairingExpiresAt=2026-09-10T12:51:16.7831579Z, ActiveExpiresAt=2026-09-10T13:20:16.7831579Z
+[TryPairSession] Called with token: vFdXXOE-qG85pT3IE-McOBUDCVY4iItDIHBWBVkAGiU
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'vFdXXOE-qG85pT3IE-McOBUDCVY4iItDIHBWBVkAGiU', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: vFdX****AGiU Device: Test Phone
+[TryPairSession] Called with token: vFdXXOE-qG85pT3IE-McOBUDCVY4iItDIHBWBVkAGiU
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'vFdXXOE-qG85pT3IE-McOBUDCVY4iItDIHBWBVkAGiU', PairingExpired: False, Used: True, Paired: True
+[TryPairSession] Session invalid state: PairingExpired=False, Used=True, Paired=True
+[GameSession] Created: Token=VHBBC8i7Q9gMOL3KUl6KF0aZDPrtTiB00ZYx7IkKpJ8, CreatedAt=2026-09-10T12:50:16.9094597Z, PairingExpiresAt=2026-09-10T12:51:16.9094597Z, ActiveExpiresAt=2026-09-10T13:20:16.9094597Z
+[TryPairSession] Called with token: VHBBC8i7Q9gMOL3KUl6KF0aZDPrtTiB00ZYx7IkKpJ8
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'VHBBC8i7Q9gMOL3KUl6KF0aZDPrtTiB00ZYx7IkKpJ8', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: VHBB****KpJ8 Device: Test Phone
+[GameSession] Created: Token=64QKFrUavZ4XKuXNDt8OIco5v7mZzX2Vjis8AcA8Dy8, CreatedAt=2026-09-10T12:50:17.2049177Z, PairingExpiresAt=2026-09-10T12:51:17.2049177Z, ActiveExpiresAt=2026-09-10T13:20:17.2049177Z
+[TryPairSession] Called with token: 64QKFrUavZ4XKuXNDt8OIco5v7mZzX2Vjis8AcA8Dy8
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: '64QKFrUavZ4XKuXNDt8OIco5v7mZzX2Vjis8AcA8Dy8', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: 64QK****8Dy8 Device: Test Phone
+[GameSession] Created: Token=vO6R8EVWBpzeSQvBhD2U17xECWjE8i3eCIHqU-OuR5g, CreatedAt=2026-09-10T14:40:20.7512676Z, PairingExpiresAt=2026-09-10T14:45:20.7512676Z, ActiveExpiresAt=2026-09-10T15:10:20.7512676Z
+[GameSession] Created: Token=Hh7ugWpPPE9Y1yHehrTuJlaL0T0T_HLNz3B-q8dXnos, CreatedAt=2026-09-10T14:40:21.0935826Z, PairingExpiresAt=2026-09-10T14:40:22.0935826Z, ActiveExpiresAt=2026-09-10T15:10:21.0935826Z
+[GameSession] Created: Token=qQ1jLEfF0UXSUNLlh0dSks9wDSC2JAmuegnUHeGFXRw, CreatedAt=2026-09-10T14:40:22.2072746Z, PairingExpiresAt=2026-09-10T14:41:22.2072746Z, ActiveExpiresAt=2026-09-10T15:10:22.2072746Z
+[TryPairSession] Called with token: qQ1jLEfF0UXSUNLlh0dSks9wDSC2JAmuegnUHeGFXRw
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'qQ1jLEfF0UXSUNLlh0dSks9wDSC2JAmuegnUHeGFXRw', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: qQ1j****FXRw Device: Phone 1
+[GameSession] Created: Token=x132J4JItUjj4rxsb2_gZb1LShLlMyTupbpTf6LrLb8, CreatedAt=2026-09-10T14:40:22.2582385Z, PairingExpiresAt=2026-09-10T14:41:22.2582385Z, ActiveExpiresAt=2026-09-10T15:10:22.2582385Z
+[GameSession] Created: Token=uCoYDB2ZFsQDeGkQZZzfi5Bf15FIjqhuQSu67WUkqDw, CreatedAt=2026-09-10T14:40:22.2671317Z, PairingExpiresAt=2026-09-10T14:41:22.2671317Z, ActiveExpiresAt=2026-09-10T15:10:22.2671317Z
+[GameSession] Created: Token=YQHUKKFw2LKIO9W3NUnNsB_gXjnU46JP3orERdloNsY, CreatedAt=2026-09-10T14:40:22.2800468Z, PairingExpiresAt=2026-09-10T14:41:22.2800468Z, ActiveExpiresAt=2026-09-10T15:10:22.2800468Z
+[TryPairSession] Called with token: invalid-token
+[TryPairSession] Available sessions: 0
+[TryPairSession] Session not found for token: invalid-token. Available keys: 
+[GameSession] Created: Token=pxr03MHtBNIXCWsb7Aw7wfcXdH8NlLYHfJYTZlq6U4M, CreatedAt=2026-09-10T14:40:22.3038749Z, PairingExpiresAt=2026-09-10T14:41:22.3038749Z, ActiveExpiresAt=2026-09-10T15:10:22.3038749Z
+[GameSession] Created: Token=tC9Dwu9cd-NJ71RcoW7GdrOkUSj44MZORuJFFdwF-4c, CreatedAt=2026-09-10T14:40:22.3121912Z, PairingExpiresAt=2026-09-10T14:41:22.3121912Z, ActiveExpiresAt=2026-09-10T15:10:22.3121912Z
+[TryPairSession] Called with token: tC9Dwu9cd-NJ71RcoW7GdrOkUSj44MZORuJFFdwF-4c
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'tC9Dwu9cd-NJ71RcoW7GdrOkUSj44MZORuJFFdwF-4c', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: tC9D****F-4c Device: Test Phone
+[GameSession] Created: Token=CcKowYVCGdSdF8P42we35skH0_PbteSjiD_PW7IBFhE, CreatedAt=2026-09-10T14:40:22.4045400Z, PairingExpiresAt=2026-09-10T14:41:22.4045400Z, ActiveExpiresAt=2026-09-10T15:10:22.4045400Z
+[TryPairSession] Called with token: CcKowYVCGdSdF8P42we35skH0_PbteSjiD_PW7IBFhE
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'CcKowYVCGdSdF8P42we35skH0_PbteSjiD_PW7IBFhE', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: CcKo****BFhE Device: Test Phone
+[TryPairSession] Called with token: CcKowYVCGdSdF8P42we35skH0_PbteSjiD_PW7IBFhE
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'CcKowYVCGdSdF8P42we35skH0_PbteSjiD_PW7IBFhE', PairingExpired: False, Used: True, Paired: True
+[TryPairSession] Session invalid state: PairingExpired=False, Used=True, Paired=True
+[GameSession] Created: Token=P_pBY5jGZboVToqfb3ly0-plBSbh1E01dNALYlND26E, CreatedAt=2026-09-10T14:40:22.4121670Z, PairingExpiresAt=2026-09-10T14:41:22.4121670Z, ActiveExpiresAt=2026-09-10T15:10:22.4121670Z
+[TryPairSession] Called with token: P_pBY5jGZboVToqfb3ly0-plBSbh1E01dNALYlND26E
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'P_pBY5jGZboVToqfb3ly0-plBSbh1E01dNALYlND26E', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: P_pB****D26E Device: Test Phone
+[GameSession] Created: Token=dbks79ylIkIUYIDPYakCduDcTtrhPspzYPWwYlBmw7o, CreatedAt=2026-09-10T14:40:22.4167371Z, PairingExpiresAt=2026-09-10T14:41:22.4167371Z, ActiveExpiresAt=2026-09-10T15:10:22.4167371Z
+[TryPairSession] Called with token: dbks79ylIkIUYIDPYakCduDcTtrhPspzYPWwYlBmw7o
+[TryPairSession] Available sessions: 1
+[TryPairSession] Session: 'dbks79ylIkIUYIDPYakCduDcTtrhPspzYPWwYlBmw7o', PairingExpired: False, Used: False, Paired: False
+[TryPairSession] Session paired: dbks****mw7o Device: Test Phone

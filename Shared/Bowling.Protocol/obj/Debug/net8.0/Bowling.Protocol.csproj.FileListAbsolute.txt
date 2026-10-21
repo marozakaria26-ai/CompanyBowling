@@ -1,0 +1,11 @@
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\bin\Debug\net8.0\Bowling.Protocol.deps.json
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\bin\Debug\net8.0\Bowling.Protocol.dll
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\bin\Debug\net8.0\Bowling.Protocol.pdb
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\Bowling.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\Bowling.Protocol.AssemblyInfoInputs.cache
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\Bowling.Protocol.AssemblyInfo.cs
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\Bowling.Protocol.csproj.CoreCompileInputs.cache
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\Bowling.Protocol.dll
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\refint\Bowling.Protocol.dll
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\Bowling.Protocol.pdb
+C:\Users\Ai02\Desktop\PETER ZAKARIA\New folder\CompanyBowling\Shared\Bowling.Protocol\obj\Debug\net8.0\ref\Bowling.Protocol.dll

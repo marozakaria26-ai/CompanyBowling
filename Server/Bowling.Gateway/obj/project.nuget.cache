@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZ28wVPW4tQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ai02\\Desktop\\PETER ZAKARIA\\New folder\\CompanyBowling\\Server\\Bowling.Gateway\\Bowling.Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ai02\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ai02\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\Ai02\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

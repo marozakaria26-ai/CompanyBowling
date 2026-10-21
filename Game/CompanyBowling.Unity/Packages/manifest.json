@@ -1,0 +1,11 @@
+{
+  "name": "com.company.bowling",
+  "displayName": "Company Bowling",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Company Bowling MVP - Unity Game Client",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.websocket": "1.0.0"
+  }
+}

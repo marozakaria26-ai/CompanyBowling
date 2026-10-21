@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Company Bowling Controller</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="ready_to_throw">READY TO THROW</string>
+    <string name="hold_phone_naturally">Hold the phone naturally as if it were a bowling ball controller</string>
+</resources>
